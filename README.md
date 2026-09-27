@@ -3,3 +3,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanvir-cpp/tanvir-cpp/main/light_mode.svg?v=9e7299f" />
   <img width="100%" alt="tanvir-cpp's GitHub profile" src="https://raw.githubusercontent.com/tanvir-cpp/tanvir-cpp/main/dark_mode.svg?v=9e7299f" />
 </picture>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=tanvir-cpp&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p> 
